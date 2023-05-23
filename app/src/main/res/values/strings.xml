@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grupo_01_GarciaChuman_Tarea_04_Ejercicio_02</string>
+    <string name="home_title">Busca tu vuelo</string>
+    <string name="lbl_fly_data">Ingresa los datos de tu vuelo</string>
+    <string name="lbl_fly_number_hint">Ingrese el número de vuelo o ruta</string>
+    <string name="rbt_fly_number">Número de vuelo</string>
+    <string name="rbt_route_number">Número de ruta</string>
+    <string name="lbl_fly_date">Fecha de vuelo</string>
+    <string name="btn_search">Buscar</string>
+</resources>
